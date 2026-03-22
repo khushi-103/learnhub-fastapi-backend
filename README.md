@@ -78,9 +78,9 @@ learnhub-fastapi-backend
 ├── .gitignore
 │
 └── output
-    ├── screenshot1.png
-    ├── screenshot2.png
-    ├── screenshot3.png
+    ├── output1.png
+    ├── output2.png
+    ├── output3.png
     └── ... (API screenshots and test results)
 ```
 
